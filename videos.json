@@ -1,1 +1,18 @@
-{"videos": []}
+{
+  "videos": [
+    {
+      "tag": "2026-11-21-crown-cap",
+      "date": "2026-11-21",
+      "title": "Crown Cap",
+      "published_at": "2026-11-22T16:01:51Z",
+      "release_url": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/tag/2026-11-21-crown-cap",
+      "files": {
+        "en-video_music": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-21-crown-cap/en-video_music.mp4",
+        "en-video_clean": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-21-crown-cap/en-video_clean.mp4",
+        "es-video_music": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-21-crown-cap/es-video_music.mp4",
+        "es-video_clean": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-21-crown-cap/es-video_clean.mp4",
+        "credits": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-21-crown-cap/credits.txt"
+      }
+    }
+  ]
+}
