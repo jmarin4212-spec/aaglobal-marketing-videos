@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "tag": "2026-11-22-ropp-liquor-cap",
+      "date": "2026-11-22",
+      "title": "Why liquor caps have to break (ROPP)",
+      "published_at": "2026-11-23T00:54:50Z",
+      "release_url": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/tag/2026-11-22-ropp-liquor-cap",
+      "files": {
+        "en-video_music": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-22-ropp-liquor-cap/en-video_music.mp4",
+        "en-video_clean": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-22-ropp-liquor-cap/en-video_clean.mp4",
+        "es-video_music": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-22-ropp-liquor-cap/es-video_music.mp4",
+        "es-video_clean": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-22-ropp-liquor-cap/es-video_clean.mp4",
+        "credits": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-22-ropp-liquor-cap/credits.txt"
+      }
+    },
+    {
       "tag": "2026-11-21-crown-cap",
       "date": "2026-11-21",
       "title": "Crown Cap",
