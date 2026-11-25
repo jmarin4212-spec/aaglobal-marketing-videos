@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "tag": "2026-11-22-child-resistant-caps",
+      "date": "2026-11-22",
+      "title": "Child-resistant caps",
+      "published_at": "2026-11-25T23:53:14Z",
+      "release_url": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/tag/2026-11-22-child-resistant-caps",
+      "files": {
+        "en-video_music": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-22-child-resistant-caps/en-video_music.mp4",
+        "en-video_clean": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-22-child-resistant-caps/en-video_clean.mp4",
+        "es-video_music": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-22-child-resistant-caps/es-video_music.mp4",
+        "es-video_clean": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-22-child-resistant-caps/es-video_clean.mp4",
+        "credits": "https://github.com/jmarin4212-spec/aaglobal-marketing-videos/releases/download/2026-11-22-child-resistant-caps/credits.txt"
+      }
+    },
+    {
       "tag": "2026-11-22-amber-medicine-glass",
       "date": "2026-11-22",
       "title": "Why are medicine bottles brown?",
